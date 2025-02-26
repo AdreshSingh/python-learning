@@ -1,0 +1,16 @@
+0  1  2  3  4  5 (postive indexing)
+d  e  v  a  n  k
+-6 -5 -4 -3 -2 -1 (Negative indexing)
+
+# indexing & slicing
+## Indexing
+when we desplaying only a letter from a string
+e.g.
+
+>> name = "py"
+>>> name[0] # indexing
+
+## Slicing
+when extract a substring from the main string
+
+

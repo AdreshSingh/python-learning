@@ -10,7 +10,7 @@ a = 10  # int or Integer
     4. Map -> Dictionary
     5. Byte -> Bytes, BytesArray, MemoryView
     6. Sets -> Set, Frozenset
-2. Non-Primitive
+2. Non-Primitive (User defined datatype)
 '''
 # we can use python type() to confirm a varaible datatype
 print(type(a))
@@ -21,7 +21,7 @@ print(type(a))
 a = 3+4j
 print(type(a))
 
-
+# multiline string
 a = '''learn
 python 3
 '''
@@ -34,6 +34,6 @@ print(a)
 
 
 myname = "devank"
-print(myname[5])
+print(myname[5]) # indexing
 
 
